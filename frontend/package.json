@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "cd Task-Manager && npm run dev",
+    "build": "cd Task-Manager && npm run build",
+    "preview": "cd Task-Manager && npm run preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.4",
+    "jimp": "^1.6.1",
+    "tailwindcss": "^4.2.4"
+  }
+}
